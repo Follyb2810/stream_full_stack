@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+  font-weight: bolder;  
+}
+.card{
+  box-shadow: 2px 2px black;
+  text-align: center;
+  padding: 20px 30px;
+
+}
